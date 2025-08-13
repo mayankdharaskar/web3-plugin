@@ -1,0 +1,14 @@
+{
+  "name": "node-first-mayank",
+  "version": "1.0.0",
+  "description": "A custom Web3 plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayank Dharaskar",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^4.16.0"
+  }
+}
